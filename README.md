@@ -1,4 +1,4 @@
-Oi eu sou Delta
+Oi eu sou Delta.
 Estou interessado em aprender programação, porém eu sou novo nisso e não sei nada sobre programar
 
 <!---
